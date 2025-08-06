@@ -17,8 +17,10 @@ A mobile Flutter application to manage **daily healthcare sample pickups** with 
 ---
 
 ## 📸 Screenshots
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/607c3517-0201-41b0-b465-312d6700e8df" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7ab08981-c4fe-4d6f-9986-b7369e876081" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b678bc03-9269-41c0-b3bb-f7dd4c121976" />
 
-> *(You can add screenshots here later if required)*
 
 ---
 
@@ -148,7 +150,7 @@ Mock data is auto-generated on first launch if no pickups exist for the day, ens
 
 ## 🧑‍💻 Author
 
-**Shivam Arora** *Engineering Student – Lovely Professional University* GitHub: `@yourusername`
+**Shivam Arora** *Engineering Student – Lovely Professional University* GitHub: `@realshivamarora`
 
 ---
 
